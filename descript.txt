@@ -6,7 +6,4 @@ type,shell
 name,Hydrate Shell Template
 craftman,
 craftmanurl,
-
-menu.background.bitmap.filename,menu_background.png
-menu.foreground.bitmap.filename,menu_foreground.png
-menu.sidebar.bitmap.filename,menu_sidebar.png
+homeurl,
