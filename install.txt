@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,Hydrate Shell Template
+directory,hydrate_shell_template
